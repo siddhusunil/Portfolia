@@ -9,7 +9,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://next-supabase-vote.vercel.app/"),
+	metadataBase: new URL("https://portfolia-khaki-zeta.vercel.app/"),
 
 	title: "BAYIKATI SUNIL || Portfolia",
 	authors: {
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 		title: "Bayikati Sunil",
 		description:
 			"I'm a Fullstack Developer passionate about building a modern web application that users love.",
-		url: "https://next-supabase-vote.vercel.app/",
+		url: "https://portfolia-khaki-zeta.vercel.app/",
 		siteName: "sunil",
 		images: "/portfolia.png",
 		type: "website",
