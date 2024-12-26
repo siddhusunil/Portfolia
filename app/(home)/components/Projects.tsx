@@ -1,5 +1,5 @@
 import React from 'react'
-import { SiCss3, SiHtml5, SiMongodb, SiNextdotjs, SiNodedotjs, SiReact, SiShadcnui, SiTailwindcss, SiTypescript } from 'react-icons/si'
+import { SiCss3, SiHtml5, SiMongodb, SiNextdotjs, SiNodedotjs, SiReact, SiTailwindcss, SiTypescript } from 'react-icons/si'
 import Title from './Title'
 import Link from 'next/link'
 import { DirectionAwareHover } from '@/components/ui/direction-aware-hover'
